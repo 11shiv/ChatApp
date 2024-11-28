@@ -1,6 +1,6 @@
 # ✨Chat App ✨
 
-Deployed : [https://chatapp-07ue.onrender.com/login] ChatApp
+Deployed : [https://chatapp-07ue.onrender.com/login](ChatApp)
 
 ![Screenshot 2024-11-28 122912](https://github.com/user-attachments/assets/865680a6-4475-40c7-9e62-6f4117f0dfec)
 ![Screenshot 2024-11-28 123221](https://github.com/user-attachments/assets/dc76f7fc-177a-40db-ac14-8aa98d116fdf)
@@ -11,8 +11,10 @@ Deployed : [https://chatapp-07ue.onrender.com/login] ChatApp
 
 Highlights:
 
--  Tech stack used to build : MERN , Socket.io , TailwindCSS  , Daisy UI
+-  Tech stack used to build : ReactJs , NodeJs, MongoDB , Cloudinary, Socket.io , TailwindCSS  , Daisy UI
 - DaisyUI - for inbuilt template.
+- During Development - PostMan ( for checking Login/signup/Logout working or not ).
+- 
 -  Authentication && Authorization with JWT
 -  Real-time messaging with Socket.io
 -  Online user status
